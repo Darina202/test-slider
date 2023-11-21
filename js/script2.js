@@ -1,4 +1,4 @@
-import { cardItems } from './cards';
+import { cardItems } from './cards.js';
 
 const swiper = new Swiper('.swiper', {
   // Optional parameters
